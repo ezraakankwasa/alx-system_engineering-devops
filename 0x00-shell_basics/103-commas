@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -vma
+ls -Fvma
