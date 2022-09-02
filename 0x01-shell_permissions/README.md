@@ -1,7 +1,5 @@
 # 0x01. Shell, permissions
----
 ## Project description
----
 This repository contains my solutions to the ALX system engineering shell permissions project.
 
 ### [0-iam_betty](https://github.com/ezraakankwasa/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i)
